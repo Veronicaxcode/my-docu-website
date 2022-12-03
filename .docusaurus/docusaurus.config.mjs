@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Meshnet docs",
+  "tagline": "Meshnet is a new NordVPN feature that allows you to create a secure, private network for many devices located anywhere in the world, access them remotely, and send your online traffic through another device.",
   "url": "https://github.com",
   "baseUrl": "/my-docu-website/",
   "onBrokenLinks": "throw",
