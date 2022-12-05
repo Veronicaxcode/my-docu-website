@@ -80,6 +80,28 @@
           }
         ],
         "href": "/my-docu-website/docs/category/how-to-guides"
+      },
+      {
+        "type": "category",
+        "label": "user-manuals",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "how-to-start-using-meshnet",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "using-meshnet-on-windows",
+                "href": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+                "docId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -136,6 +158,12 @@
       "id": "tutorial-extras/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows": {
+      "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+      "title": "using-meshnet-on-windows",
+      "description": "",
       "sidebar": "tutorialSidebar"
     }
   }

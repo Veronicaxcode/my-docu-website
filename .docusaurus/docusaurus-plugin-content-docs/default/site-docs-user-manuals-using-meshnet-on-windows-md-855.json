@@ -1,0 +1,20 @@
+{
+  "unversionedId": "user-manuals/Using Meshnet on Windows",
+  "id": "user-manuals/Using Meshnet on Windows",
+  "title": "Using Meshnet on Windows",
+  "description": "",
+  "source": "@site/docs/user-manuals/Using Meshnet on Windows.md",
+  "sourceDirName": "user-manuals",
+  "slug": "/user-manuals/Using Meshnet on Windows",
+  "permalink": "/my-docu-website/docs/user-manuals/Using Meshnet on Windows",
+  "draft": false,
+  "editUrl": "https://github.com/Veronicaxcode/my-docu-website/docs/user-manuals/Using Meshnet on Windows.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/my-docu-website/docs/tutorial-extras/translate-your-site"
+  }
+}

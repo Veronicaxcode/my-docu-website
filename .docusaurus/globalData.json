@@ -56,6 +56,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+              "path": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/user-manuals",
               "path": "/my-docu-website/docs/category/user-manuals",
               "sidebar": "tutorialSidebar"

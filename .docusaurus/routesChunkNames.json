@@ -186,7 +186,7 @@
     },
     "content": "content---my-docu-website-markdown-page-393-42b"
   },
-  "/my-docu-website/docs-bfe": {
+  "/my-docu-website/docs-2e4": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---my-docu-website-docsa-7-e-002"
@@ -236,6 +236,10 @@
   "/my-docu-website/docs/tutorial-extras/translate-your-site-2f6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---my-docu-website-docs-tutorial-extras-translate-your-sitee-44-495"
+  },
+  "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows-d00": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-docu-website-docs-user-manuals-how-to-start-using-meshnet-using-meshnet-on-windows-750-a2d"
   },
   "/my-docu-website/-8bd": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

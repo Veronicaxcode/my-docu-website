@@ -252,6 +252,30 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/my-docu-website/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "using-meshnet-on-windows",
+                "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
+              }
+            },
+            {
+              "unversionedId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+              "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+              "title": "using-meshnet-on-windows",
+              "description": "",
+              "source": "@site/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows.md",
+              "sourceDirName": "user-manuals/how-to-start-using-meshnet",
+              "slug": "/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+              "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+              "draft": false,
+              "editUrl": "https://github.com/Veronicaxcode/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Translate your site",
+                "permalink": "/my-docu-website/docs/tutorial-extras/translate-your-site"
               }
             }
           ],
@@ -320,6 +344,26 @@
                   "slug": "/category/how-to-guides",
                   "permalink": "/my-docu-website/docs/category/how-to-guides"
                 }
+              },
+              {
+                "type": "category",
+                "label": "user-manuals",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "how-to-start-using-meshnet",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }

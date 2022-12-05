@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/my-docu-website/docs',
-    component: ComponentCreator('/my-docu-website/docs', 'bfe'),
+    component: ComponentCreator('/my-docu-website/docs', '2e4'),
     routes: [
       {
         path: '/my-docu-website/docs/category/how-to-guides',
@@ -164,6 +164,12 @@ export default [
       {
         path: '/my-docu-website/docs/tutorial-extras/translate-your-site',
         component: ComponentCreator('/my-docu-website/docs/tutorial-extras/translate-your-site', '2f6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows',
+        component: ComponentCreator('/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows', 'd00'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
