@@ -1,110 +1,67 @@
 {
-  "/my-docu-website/__docusaurus/debug-adb": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---my-docu-website-docusaurus-debug-09-a-043"
-    }
-  },
-  "/my-docu-website/__docusaurus/debug/config-e3c": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---my-docu-website-docusaurus-debug-09-a-043"
-    }
-  },
-  "/my-docu-website/__docusaurus/debug/content-d56": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---my-docu-website-docusaurus-debug-09-a-043"
-    },
-    "allContent": "allContent---my-docu-website-docusaurus-debug-content-246-d89"
-  },
-  "/my-docu-website/__docusaurus/debug/globalData-d53": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---my-docu-website-docusaurus-debug-09-a-043"
-    }
-  },
-  "/my-docu-website/__docusaurus/debug/metadata-dd7": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---my-docu-website-docusaurus-debug-09-a-043"
-    }
-  },
-  "/my-docu-website/__docusaurus/debug/registry-29d": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---my-docu-website-docusaurus-debug-09-a-043"
-    }
-  },
-  "/my-docu-website/__docusaurus/debug/routes-3c3": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---my-docu-website-docusaurus-debug-09-a-043"
-    }
-  },
   "/my-docu-website/markdown-page-5cc": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---my-docu-website-markdown-page-74-a-901"
+      "plugin": "74a59f17"
     },
-    "content": "content---my-docu-website-markdown-page-393-42b"
+    "content": "393be207"
   },
   "/my-docu-website/docs-8b6": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---my-docu-website-docsa-7-e-002"
+      "plugin": "a7eaf26d"
     },
-    "versionMetadata": "versionMetadata---my-docu-website-docs-935-070"
+    "versionMetadata": "935f2afb"
   },
   "/my-docu-website/docs/category/tutorial---basics-4a8": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-tutorial-basics-9-c-6-b96"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9c6ccbc1"
   },
   "/my-docu-website/docs/category/tutorial---extras-976": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-tutorial-extras-672-046"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "672f910b"
   },
   "/my-docu-website/docs/intro-d21": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---my-docu-website-docs-intro-0-e-3-d2d"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/my-docu-website/docs/tutorial-basics/congratulations-07a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---my-docu-website-docs-tutorial-basics-congratulations-822-3aa"
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
   "/my-docu-website/docs/tutorial-basics/create-a-blog-post-bd5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---my-docu-website-docs-tutorial-basics-create-a-blog-post-533-f78"
+    "__comp": "17896441",
+    "content": "533a09ca"
   },
   "/my-docu-website/docs/tutorial-basics/create-a-document-2da": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---my-docu-website-docs-tutorial-basics-create-a-document-1-e-4-515"
+    "__comp": "17896441",
+    "content": "1e4232ab"
   },
   "/my-docu-website/docs/tutorial-basics/create-a-page-359": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---my-docu-website-docs-tutorial-basics-create-a-page-5-c-8-51e"
+    "__comp": "17896441",
+    "content": "5c868d36"
   },
   "/my-docu-website/docs/tutorial-basics/deploy-your-site-c00": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---my-docu-website-docs-tutorial-basics-deploy-your-sitef-55-088"
+    "__comp": "17896441",
+    "content": "f55d3e7a"
   },
   "/my-docu-website/docs/tutorial-basics/markdown-features-2a8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---my-docu-website-docs-tutorial-basics-markdown-features-18-c-8db"
+    "__comp": "17896441",
+    "content": "18c41134"
   },
   "/my-docu-website/docs/tutorial-extras/manage-docs-versions-5e9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---my-docu-website-docs-tutorial-extras-manage-docs-versionsdff-2fe"
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
   "/my-docu-website/docs/tutorial-extras/translate-your-site-2f6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---my-docu-website-docs-tutorial-extras-translate-your-sitee-44-495"
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
   "/my-docu-website/-8bd": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---my-docu-website-markdown-page-74-a-901"
+      "plugin": "74a59f17"
     },
-    "config": "config---my-docu-website-5-e-9-cbd"
+    "config": "5e9f5e1a"
   }
 }

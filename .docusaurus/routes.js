@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/my-docu-website/__docusaurus/debug',
-    component: ComponentCreator('/my-docu-website/__docusaurus/debug', 'adb'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/__docusaurus/debug/config',
-    component: ComponentCreator('/my-docu-website/__docusaurus/debug/config', 'e3c'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/__docusaurus/debug/content',
-    component: ComponentCreator('/my-docu-website/__docusaurus/debug/content', 'd56'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/__docusaurus/debug/globalData',
-    component: ComponentCreator('/my-docu-website/__docusaurus/debug/globalData', 'd53'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/__docusaurus/debug/metadata',
-    component: ComponentCreator('/my-docu-website/__docusaurus/debug/metadata', 'dd7'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/__docusaurus/debug/registry',
-    component: ComponentCreator('/my-docu-website/__docusaurus/debug/registry', '29d'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/__docusaurus/debug/routes',
-    component: ComponentCreator('/my-docu-website/__docusaurus/debug/routes', '3c3'),
-    exact: true
-  },
-  {
     path: '/my-docu-website/markdown-page',
     component: ComponentCreator('/my-docu-website/markdown-page', '5cc'),
     exact: true
