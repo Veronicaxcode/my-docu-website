@@ -38,14 +38,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Veronicaxcode/my-docu-website',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Veronicaxcode/my-docu-website',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -58,10 +58,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/NordVPN_logo.svg',
         },
         items: [
           {
@@ -70,10 +69,9 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://nordvpn.com/',
+            label: 'NordVPN',
             position: 'right',
           },
         ],
@@ -82,7 +80,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'DOCS',
             items: [
               {
                 label: 'Tutorial',
@@ -91,19 +89,19 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'NORDVPN',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'About Us',
+                href: 'https://nordvpn.com/about-us/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'VPN Free Trial',
+                href: 'https://nordvpn.com/risk-free-vpn/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'VPN Routers',
+                href: 'https://nordvpn.com/flashrouters/',
               },
             ],
           },
@@ -121,7 +119,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Nord Security. All Rights Reserved.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -3,58 +3,38 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/my-docu-website/blog',
-    component: ComponentCreator('/my-docu-website/blog', 'e2a'),
+    path: '/my-docu-website/__docusaurus/debug',
+    component: ComponentCreator('/my-docu-website/__docusaurus/debug', 'adb'),
     exact: true
   },
   {
-    path: '/my-docu-website/blog/archive',
-    component: ComponentCreator('/my-docu-website/blog/archive', '6e0'),
+    path: '/my-docu-website/__docusaurus/debug/config',
+    component: ComponentCreator('/my-docu-website/__docusaurus/debug/config', 'e3c'),
     exact: true
   },
   {
-    path: '/my-docu-website/blog/first-blog-post',
-    component: ComponentCreator('/my-docu-website/blog/first-blog-post', '899'),
+    path: '/my-docu-website/__docusaurus/debug/content',
+    component: ComponentCreator('/my-docu-website/__docusaurus/debug/content', 'd56'),
     exact: true
   },
   {
-    path: '/my-docu-website/blog/long-blog-post',
-    component: ComponentCreator('/my-docu-website/blog/long-blog-post', 'c9d'),
+    path: '/my-docu-website/__docusaurus/debug/globalData',
+    component: ComponentCreator('/my-docu-website/__docusaurus/debug/globalData', 'd53'),
     exact: true
   },
   {
-    path: '/my-docu-website/blog/mdx-blog-post',
-    component: ComponentCreator('/my-docu-website/blog/mdx-blog-post', '48d'),
+    path: '/my-docu-website/__docusaurus/debug/metadata',
+    component: ComponentCreator('/my-docu-website/__docusaurus/debug/metadata', 'dd7'),
     exact: true
   },
   {
-    path: '/my-docu-website/blog/tags',
-    component: ComponentCreator('/my-docu-website/blog/tags', '119'),
+    path: '/my-docu-website/__docusaurus/debug/registry',
+    component: ComponentCreator('/my-docu-website/__docusaurus/debug/registry', '29d'),
     exact: true
   },
   {
-    path: '/my-docu-website/blog/tags/docusaurus',
-    component: ComponentCreator('/my-docu-website/blog/tags/docusaurus', '2fa'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/blog/tags/facebook',
-    component: ComponentCreator('/my-docu-website/blog/tags/facebook', '48f'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/blog/tags/hello',
-    component: ComponentCreator('/my-docu-website/blog/tags/hello', 'dde'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/blog/tags/hola',
-    component: ComponentCreator('/my-docu-website/blog/tags/hola', '88c'),
-    exact: true
-  },
-  {
-    path: '/my-docu-website/blog/welcome',
-    component: ComponentCreator('/my-docu-website/blog/welcome', '230'),
+    path: '/my-docu-website/__docusaurus/debug/routes',
+    component: ComponentCreator('/my-docu-website/__docusaurus/debug/routes', '3c3'),
     exact: true
   },
   {

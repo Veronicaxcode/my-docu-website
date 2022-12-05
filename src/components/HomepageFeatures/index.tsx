@@ -10,32 +10,56 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Gaming',
+    Svg: require('@site/static/img/undraw_gaming.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Play multiplayer games with friends no matter where they are. Meshnet works as your virtual encrypted LAN, so location no longer matters. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'File sharing and remote video access',
+    Svg: require('@site/static/img/undraw_video_streaming.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Access files on your home computer while road tripping no matter how far you travel.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Remote device access',
+    Svg: require('@site/static/img/undraw_working_from_anywhere.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+      </>
+    ),
+  },
+  {
+    title: 'Joint projects',
+    Svg: require('@site/static/img/undraw_online_collaboration.svg').default,
+    description: (
+      <>
+      Start sharing your development work the easier and safer way. With Meshnet, others will be able to access your local web server securely.
+      </>
+    ),
+  },
+  {
+    title: 'Traffic routing',
+    Svg: require('@site/static/img/windows-private-network-route-traffic.svg').default,
+    description: (
+      <>
+        Meshnet lets you route all your online traffic through another machine. In the same way, other devices can route their traffic through yours.
+      </>
+    ),
+  },
+  {
+    title: 'Security',
+    Svg: require('@site/static/img/undraw_secure_login.svg').default,
+    description: (
+      <>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       </>
     ),
   },

@@ -28,11 +28,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/veronica/Documents/Git/my-docu-website/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Veronicaxcode/my-docu-website"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/Veronicaxcode/my-docu-website"
         },
         "theme": {
           "customCss": "/Users/veronica/Documents/Git/my-docu-website/src/css/custom.css"
@@ -42,10 +42,9 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/NordVPN_logo.svg"
       },
       "items": [
         {
@@ -55,13 +54,8 @@ export default {
           "label": "Tutorial"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "href": "https://nordvpn.com/",
+          "label": "NordVPN",
           "position": "right"
         }
       ],
@@ -71,7 +65,7 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "DOCS",
           "items": [
             {
               "label": "Tutorial",
@@ -80,19 +74,19 @@ export default {
           ]
         },
         {
-          "title": "Community",
+          "title": "NORDVPN",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "About Us",
+              "href": "https://nordvpn.com/about-us/"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "VPN Free Trial",
+              "href": "https://nordvpn.com/risk-free-vpn/"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "VPN Routers",
+              "href": "https://nordvpn.com/flashrouters/"
             }
           ]
         },
@@ -110,7 +104,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2022 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 Nord Security. All Rights Reserved."
     },
     "prism": {
       "theme": {

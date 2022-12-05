@@ -219,9 +219,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.5f36d9ce.js",
-          "hash": "07aca8f7bfb97740",
-          "publicPath": "/my-docu-website/assets/js/main.5f36d9ce.js"
+          "file": "assets/js/main.9d39d48e.js",
+          "hash": "70d93880617daf57",
+          "publicPath": "/my-docu-website/assets/js/main.9d39d48e.js"
         }
       ]
     },
@@ -256,7 +256,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.18d47ccb.js",
-          "hash": "72491663c185bcca",
+          "hash": "7ba7f769b1fbcfd2",
           "publicPath": "/my-docu-website/assets/js/runtime~main.18d47ccb.js"
         }
       ]
