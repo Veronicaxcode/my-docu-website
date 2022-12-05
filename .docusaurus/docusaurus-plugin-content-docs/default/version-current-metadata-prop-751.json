@@ -11,13 +11,13 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
+        "label": "What is Meshnet?",
         "href": "/my-docu-website/docs/intro",
         "docId": "intro"
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "USER MANUALS",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -58,11 +58,11 @@
             "docId": "tutorial-basics/congratulations"
           }
         ],
-        "href": "/my-docu-website/docs/category/tutorial---basics"
+        "href": "/my-docu-website/docs/category/user-manuals"
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "HOW-TO GUIDES",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -79,15 +79,15 @@
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/my-docu-website/docs/category/tutorial---extras"
+        "href": "/my-docu-website/docs/category/how-to-guides"
       }
     ]
   },
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "title": "What is Meshnet?",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

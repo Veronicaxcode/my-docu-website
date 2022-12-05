@@ -1,0 +1,15 @@
+{
+  "title": "HOW-TO GUIDES",
+  "slug": "/category/how-to-guides",
+  "permalink": "/my-docu-website/docs/category/how-to-guides",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/my-docu-website/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/my-docu-website/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

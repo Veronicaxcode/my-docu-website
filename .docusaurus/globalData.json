@@ -56,13 +56,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/my-docu-website/docs/category/tutorial---basics",
+              "id": "/category/user-manuals",
+              "path": "/my-docu-website/docs/category/user-manuals",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/my-docu-website/docs/category/tutorial---extras",
+              "id": "/category/how-to-guides",
+              "path": "/my-docu-website/docs/category/how-to-guides",
               "sidebar": "tutorialSidebar"
             }
           ],

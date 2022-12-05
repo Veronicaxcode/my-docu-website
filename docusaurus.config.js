@@ -60,14 +60,14 @@ const config = {
       navbar: {
         logo: {
           alt: 'My Site Logo',
-          src: 'img/NordVPN_logo.svg',
+          src: 'img/logo.svg',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Meshnet Tutorial',
           },
           {
             href: 'https://nordvpn.com/',
@@ -83,7 +83,7 @@ const config = {
             title: 'DOCS',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Meshnet Tutorial',
                 to: '/docs/intro',
               },
             ],
@@ -106,16 +106,41 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'VPN APPS',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Windows',
+                to: 'https://nordvpn.com/download/windows/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'macOS',
+                href: 'https://nordvpn.com/download/mac/',
               },
+              {
+                label: 'Linux',
+                href: 'https://nordvpn.com/download/linux/',
+              },
+              {
+                label: 'Android',
+                href: 'https://nordvpn.com/download/android/',
+              },
+              {
+                label: 'iOS: iPhone / iPad',
+                href: 'https://nordvpn.com/download/ios/',
+              },
+              {
+                label: 'Chrome',
+                href: 'https://nordvpn.com/download/chrome-extension/',
+              },
+              {
+                label: 'Firefox',
+                href: 'https://nordvpn.com/download/firefox-extension/',
+              },
+              {
+                label: 'Edge',
+                href: 'https://nordvpn.com/download/edge-extension/',
+              },
+
             ],
           },
         ],
