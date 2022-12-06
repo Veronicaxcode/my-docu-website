@@ -5,8 +5,8 @@
   "permalink": "/my-docu-website/docs/category/tutorial---basics",
   "navigation": {
     "previous": {
-      "title": "What is Meshnet?",
-      "permalink": "/my-docu-website/docs/intro"
+      "title": "How to make a Minecraft server with Meshnet",
+      "permalink": "/my-docu-website/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet"
     },
     "next": {
       "title": "Create a Page",

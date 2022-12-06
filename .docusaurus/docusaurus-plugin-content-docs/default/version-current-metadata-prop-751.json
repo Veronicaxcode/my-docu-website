@@ -17,6 +17,81 @@
       },
       {
         "type": "category",
+        "label": "User manuals",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "How to start using Meshnet",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Using Meshnet on Windows",
+                "href": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+                "docId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
+              },
+              {
+                "type": "link",
+                "label": "Using Meshnet on macOS",
+                "href": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS",
+                "docId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS"
+              },
+              {
+                "type": "link",
+                "label": "Using Meshnet on Linux",
+                "href": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux",
+                "docId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux"
+              }
+            ],
+            "href": "/my-docu-website/docs/category/how-to-start-using-meshnet"
+          },
+          {
+            "type": "category",
+            "label": "Adding peers to your Meshnet",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Adding devices on Windows",
+                "href": "/my-docu-website/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows",
+                "docId": "user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows"
+              }
+            ],
+            "href": "/my-docu-website/docs/category/adding-peers-to-your-meshnet"
+          }
+        ],
+        "href": "/my-docu-website/docs/category/user-manuals"
+      },
+      {
+        "type": "category",
+        "label": "How-to guides",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Gaming",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "How to make a Minecraft server with Meshnet",
+                "href": "/my-docu-website/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet",
+                "docId": "how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet"
+              }
+            ],
+            "href": "/my-docu-website/docs/category/gaming"
+          }
+        ],
+        "href": "/my-docu-website/docs/category/how-to-guides"
+      },
+      {
+        "type": "category",
         "label": "Tutorial - Basics",
         "collapsible": true,
         "collapsed": true,
@@ -62,30 +137,6 @@
       },
       {
         "type": "category",
-        "label": "User manuals",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "category",
-            "label": "How to start using Meshnet",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Using Meshnet on Windows",
-                "href": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
-                "docId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
-              }
-            ],
-            "href": "/my-docu-website/docs/category/how-to-start-using-meshnet"
-          }
-        ],
-        "href": "/my-docu-website/docs/category/user-manuals"
-      },
-      {
-        "type": "category",
         "label": "Tutorial - Extras",
         "collapsible": true,
         "collapsed": true,
@@ -108,6 +159,12 @@
     ]
   },
   "docs": {
+    "how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet": {
+      "id": "how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet",
+      "title": "How to make a Minecraft server with Meshnet",
+      "description": "This article describes how to create a private Minecraft server using Meshnet on Windows, Linux, and macOS.",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "What is Meshnet?",
@@ -162,10 +219,28 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
+    "user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows": {
+      "id": "user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows",
+      "title": "Adding devices on Windows",
+      "description": "A short description of this page",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux": {
+      "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux",
+      "title": "Using Meshnet on Linux",
+      "description": "A short description of this page",
+      "sidebar": "tutorialSidebar"
+    },
+    "user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS": {
+      "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS",
+      "title": "Using Meshnet on macOS",
+      "description": "A short description of this page",
+      "sidebar": "tutorialSidebar"
+    },
     "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows": {
       "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
       "title": "Using Meshnet on Windows",
-      "description": "Supported Windows versions",
+      "description": "A short description of this page",
       "sidebar": "tutorialSidebar"
     }
   }

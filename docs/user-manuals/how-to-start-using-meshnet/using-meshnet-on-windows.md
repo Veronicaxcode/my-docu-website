@@ -1,11 +1,10 @@
 ---
 sidebar_position: 1
-title: Title for search engines; can be different from the actual heading
+title: Using Meshnet on Windows
 description: A short description of this page
-image: a thumbnail image to be shown in social media cards
-keywords: [keywords, describing, the main topics]
+keywords: [meshnet, windows, nordvpn]
 ---
-
+  
 
 # Using Meshnet on Windows
 
@@ -30,3 +29,11 @@ Complete the following steps to turn on Meshnet on your device:
    ![Turn on Meshnet toggle](./img/welcome_to_meshnet.png)
 
    Once the Meshnet feature is enabled, your device automatically gets a unique name and a Meshnet IP address.
+
+## Add your devices to Meshnet
+
+The Meshnet feature allows you to link up to 10 devices of your own.
+To add your other device to Meshnet: 
+1. Make sure the NordVPN app is installed on the device you want to connect to Meshnet and you are logged in to your NordVPN account.
+2. In the NordVPN app on that device, turn on Meshnet.
+

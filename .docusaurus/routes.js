@@ -99,8 +99,26 @@ export default [
   },
   {
     path: '/my-docu-website/docs',
-    component: ComponentCreator('/my-docu-website/docs', '8e9'),
+    component: ComponentCreator('/my-docu-website/docs', 'cc4'),
     routes: [
+      {
+        path: '/my-docu-website/docs/category/adding-peers-to-your-meshnet',
+        component: ComponentCreator('/my-docu-website/docs/category/adding-peers-to-your-meshnet', '4ff'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/my-docu-website/docs/category/gaming',
+        component: ComponentCreator('/my-docu-website/docs/category/gaming', '15a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/my-docu-website/docs/category/how-to-guides',
+        component: ComponentCreator('/my-docu-website/docs/category/how-to-guides', 'ebc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/my-docu-website/docs/category/how-to-start-using-meshnet',
         component: ComponentCreator('/my-docu-website/docs/category/how-to-start-using-meshnet', '459'),
@@ -122,6 +140,12 @@ export default [
       {
         path: '/my-docu-website/docs/category/user-manuals',
         component: ComponentCreator('/my-docu-website/docs/category/user-manuals', '510'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/my-docu-website/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet',
+        component: ComponentCreator('/my-docu-website/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet', 'd3d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -176,6 +200,24 @@ export default [
       {
         path: '/my-docu-website/docs/tutorial-extras/translate-your-site',
         component: ComponentCreator('/my-docu-website/docs/tutorial-extras/translate-your-site', '2f6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/my-docu-website/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows',
+        component: ComponentCreator('/my-docu-website/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows', '597'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux',
+        component: ComponentCreator('/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux', 'acf'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS',
+        component: ComponentCreator('/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS', '0e7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

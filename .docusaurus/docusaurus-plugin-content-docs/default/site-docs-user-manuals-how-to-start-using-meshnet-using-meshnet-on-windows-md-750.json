@@ -2,7 +2,7 @@
   "unversionedId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
   "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
   "title": "Using Meshnet on Windows",
-  "description": "Supported Windows versions",
+  "description": "A short description of this page",
   "source": "@site/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows.md",
   "sourceDirName": "user-manuals/how-to-start-using-meshnet",
   "slug": "/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
@@ -13,7 +13,14 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "title": "Using Meshnet on Windows",
+    "description": "A short description of this page",
+    "keywords": [
+      "meshnet",
+      "windows",
+      "nordvpn"
+    ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +28,7 @@
     "permalink": "/my-docu-website/docs/category/how-to-start-using-meshnet"
   },
   "next": {
-    "title": "Tutorial - Extras",
-    "permalink": "/my-docu-website/docs/category/tutorial---extras"
+    "title": "Using Meshnet on macOS",
+    "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS"
   }
 }

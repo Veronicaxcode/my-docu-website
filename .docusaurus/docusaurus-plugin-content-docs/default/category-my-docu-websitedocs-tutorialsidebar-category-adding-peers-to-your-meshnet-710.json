@@ -1,0 +1,15 @@
+{
+  "title": "Adding peers to your Meshnet",
+  "slug": "/category/adding-peers-to-your-meshnet",
+  "permalink": "/my-docu-website/docs/category/adding-peers-to-your-meshnet",
+  "navigation": {
+    "previous": {
+      "title": "Using Meshnet on Linux",
+      "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux"
+    },
+    "next": {
+      "title": "Adding devices on Windows",
+      "permalink": "/my-docu-website/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows"
+    }
+  }
+}

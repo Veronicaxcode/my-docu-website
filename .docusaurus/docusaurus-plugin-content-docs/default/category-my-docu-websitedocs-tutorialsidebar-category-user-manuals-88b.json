@@ -4,8 +4,8 @@
   "permalink": "/my-docu-website/docs/category/user-manuals",
   "navigation": {
     "previous": {
-      "title": "Congratulations!",
-      "permalink": "/my-docu-website/docs/tutorial-basics/congratulations"
+      "title": "What is Meshnet?",
+      "permalink": "/my-docu-website/docs/intro"
     },
     "next": {
       "title": "How to start using Meshnet",

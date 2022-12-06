@@ -20,6 +20,40 @@
           "contentPathLocalized": "/Users/veronica/Documents/Git/my-docu-website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
+              "unversionedId": "how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet",
+              "id": "how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet",
+              "title": "How to make a Minecraft server with Meshnet",
+              "description": "This article describes how to create a private Minecraft server using Meshnet on Windows, Linux, and macOS.",
+              "source": "@site/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet.md",
+              "sourceDirName": "how-to-guides/gaming",
+              "slug": "/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet",
+              "permalink": "/my-docu-website/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet",
+              "draft": false,
+              "editUrl": "https://github.com/Veronicaxcode/my-docu-website/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "How to make a Minecraft server with Meshnet",
+                "description": "This article describes how to create a private Minecraft server using Meshnet on Windows, Linux, and macOS.",
+                "keywords": [
+                  "create",
+                  "Minecraft server",
+                  "give"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gaming",
+                "permalink": "/my-docu-website/docs/category/gaming"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/my-docu-website/docs/category/tutorial---basics"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "What is Meshnet?",
@@ -38,8 +72,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/my-docu-website/docs/category/tutorial---basics"
+                "title": "User manuals",
+                "permalink": "/my-docu-website/docs/category/user-manuals"
               }
             },
             {
@@ -65,8 +99,8 @@
                 "permalink": "/my-docu-website/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
-                "title": "User manuals",
-                "permalink": "/my-docu-website/docs/category/user-manuals"
+                "title": "Tutorial - Extras",
+                "permalink": "/my-docu-website/docs/category/tutorial---extras"
               }
             },
             {
@@ -255,10 +289,112 @@
               }
             },
             {
+              "unversionedId": "user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows",
+              "id": "user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows",
+              "title": "Adding devices on Windows",
+              "description": "A short description of this page",
+              "source": "@site/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows.md",
+              "sourceDirName": "user-manuals/adding-peers-to-your-meshnet",
+              "slug": "/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows",
+              "permalink": "/my-docu-website/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows",
+              "draft": false,
+              "editUrl": "https://github.com/Veronicaxcode/my-docu-website/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Adding devices on Windows",
+                "description": "A short description of this page",
+                "keywords": [
+                  "meshnet",
+                  "windows",
+                  "nordvpn"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Adding peers to your Meshnet",
+                "permalink": "/my-docu-website/docs/category/adding-peers-to-your-meshnet"
+              },
+              "next": {
+                "title": "How-to guides",
+                "permalink": "/my-docu-website/docs/category/how-to-guides"
+              }
+            },
+            {
+              "unversionedId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux",
+              "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux",
+              "title": "Using Meshnet on Linux",
+              "description": "A short description of this page",
+              "source": "@site/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux.md",
+              "sourceDirName": "user-manuals/how-to-start-using-meshnet",
+              "slug": "/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux",
+              "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux",
+              "draft": false,
+              "editUrl": "https://github.com/Veronicaxcode/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Using Meshnet on Linux",
+                "description": "A short description of this page",
+                "keywords": [
+                  "meshnet",
+                  "linux",
+                  "nordvpn"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Using Meshnet on macOS",
+                "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS"
+              },
+              "next": {
+                "title": "Adding peers to your Meshnet",
+                "permalink": "/my-docu-website/docs/category/adding-peers-to-your-meshnet"
+              }
+            },
+            {
+              "unversionedId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS",
+              "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS",
+              "title": "Using Meshnet on macOS",
+              "description": "A short description of this page",
+              "source": "@site/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS.md",
+              "sourceDirName": "user-manuals/how-to-start-using-meshnet",
+              "slug": "/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS",
+              "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS",
+              "draft": false,
+              "editUrl": "https://github.com/Veronicaxcode/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Using Meshnet on macOS",
+                "description": "A short description of this page",
+                "keywords": [
+                  "meshnet",
+                  "macOS",
+                  "nordvpn"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Using Meshnet on Windows",
+                "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
+              },
+              "next": {
+                "title": "Using Meshnet on Linux",
+                "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux"
+              }
+            },
+            {
               "unversionedId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
               "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
               "title": "Using Meshnet on Windows",
-              "description": "Supported Windows versions",
+              "description": "A short description of this page",
               "source": "@site/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows.md",
               "sourceDirName": "user-manuals/how-to-start-using-meshnet",
               "slug": "/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
@@ -269,7 +405,14 @@
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "title": "Using Meshnet on Windows",
+                "description": "A short description of this page",
+                "keywords": [
+                  "meshnet",
+                  "windows",
+                  "nordvpn"
+                ]
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -277,8 +420,8 @@
                 "permalink": "/my-docu-website/docs/category/how-to-start-using-meshnet"
               },
               "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/my-docu-website/docs/category/tutorial---extras"
+                "title": "Using Meshnet on macOS",
+                "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS"
               }
             }
           ],
@@ -288,6 +431,91 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "User manuals",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "How to start using Meshnet",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/how-to-start-using-meshnet",
+                      "permalink": "/my-docu-website/docs/category/how-to-start-using-meshnet"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Adding peers to your Meshnet",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/adding-peers-to-your-meshnet",
+                      "permalink": "/my-docu-website/docs/category/adding-peers-to-your-meshnet"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/user-manuals",
+                  "permalink": "/my-docu-website/docs/category/user-manuals"
+                }
+              },
+              {
+                "type": "category",
+                "label": "How-to guides",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Gaming",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/gaming",
+                      "permalink": "/my-docu-website/docs/category/gaming"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/how-to-guides",
+                  "permalink": "/my-docu-website/docs/category/how-to-guides"
+                }
               },
               {
                 "type": "category",
@@ -325,36 +553,6 @@
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/tutorial---basics",
                   "permalink": "/my-docu-website/docs/category/tutorial---basics"
-                }
-              },
-              {
-                "type": "category",
-                "label": "User manuals",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "category",
-                    "label": "How to start using Meshnet",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
-                      }
-                    ],
-                    "link": {
-                      "type": "generated-index",
-                      "slug": "/category/how-to-start-using-meshnet",
-                      "permalink": "/my-docu-website/docs/category/how-to-start-using-meshnet"
-                    }
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/user-manuals",
-                  "permalink": "/my-docu-website/docs/category/user-manuals"
                 }
               },
               {

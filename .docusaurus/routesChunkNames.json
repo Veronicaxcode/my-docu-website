@@ -186,12 +186,24 @@
     },
     "content": "content---my-docu-website-markdown-page-393-42b"
   },
-  "/my-docu-website/docs-8e9": {
+  "/my-docu-website/docs-cc4": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---my-docu-website-docsa-7-e-002"
     },
     "versionMetadata": "versionMetadata---my-docu-website-docs-935-070"
+  },
+  "/my-docu-website/docs/category/adding-peers-to-your-meshnet-4ff": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-adding-peers-to-your-meshnet-754-86b"
+  },
+  "/my-docu-website/docs/category/gaming-15a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-gamingff-5-259"
+  },
+  "/my-docu-website/docs/category/how-to-guides-ebc": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-how-to-guidesd-87-04e"
   },
   "/my-docu-website/docs/category/how-to-start-using-meshnet-459": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -208,6 +220,10 @@
   "/my-docu-website/docs/category/user-manuals-510": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-user-manuals-4-f-7-665"
+  },
+  "/my-docu-website/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet-d3d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-docu-website-docs-how-to-guides-gaming-how-to-make-a-private-minecraft-server-with-meshnet-6-b-3-4d1"
   },
   "/my-docu-website/docs/intro-d21": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -244,6 +260,18 @@
   "/my-docu-website/docs/tutorial-extras/translate-your-site-2f6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---my-docu-website-docs-tutorial-extras-translate-your-sitee-44-495"
+  },
+  "/my-docu-website/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows-597": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-docu-website-docs-user-manuals-adding-peers-to-your-meshnet-adding-devices-on-windows-39-b-adb"
+  },
+  "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux-acf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-docu-website-docs-user-manuals-how-to-start-using-meshnet-using-meshnet-on-linux-1-f-7-d81"
+  },
+  "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS-0e7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-docu-website-docs-user-manuals-how-to-start-using-meshnet-using-meshnet-on-mac-os-4-f-1-379"
   },
   "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows-d00": {
     "__comp": "__comp---theme-doc-item-178-a40",

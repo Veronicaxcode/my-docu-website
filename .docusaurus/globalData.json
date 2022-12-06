@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet",
+              "path": "/my-docu-website/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/my-docu-website/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -56,13 +61,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
-              "path": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+              "id": "user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows",
+              "path": "/my-docu-website/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/my-docu-website/docs/category/tutorial---basics",
+              "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux",
+              "path": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-linux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS",
+              "path": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-macOS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+              "path": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -73,6 +88,26 @@
             {
               "id": "/category/how-to-start-using-meshnet",
               "path": "/my-docu-website/docs/category/how-to-start-using-meshnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/adding-peers-to-your-meshnet",
+              "path": "/my-docu-website/docs/category/adding-peers-to-your-meshnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/how-to-guides",
+              "path": "/my-docu-website/docs/category/how-to-guides",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/gaming",
+              "path": "/my-docu-website/docs/category/gaming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/my-docu-website/docs/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -1,15 +1,15 @@
 {
-  "title": "HOW-TO GUIDES",
+  "title": "How-to guides",
   "slug": "/category/how-to-guides",
   "permalink": "/my-docu-website/docs/category/how-to-guides",
   "navigation": {
     "previous": {
-      "title": "Congratulations!",
-      "permalink": "/my-docu-website/docs/tutorial-basics/congratulations"
+      "title": "Adding devices on Windows",
+      "permalink": "/my-docu-website/docs/user-manuals/adding-peers-to-your-meshnet/adding-devices-on-windows"
     },
     "next": {
-      "title": "Manage Docs Versions",
-      "permalink": "/my-docu-website/docs/tutorial-extras/manage-docs-versions"
+      "title": "Gaming",
+      "permalink": "/my-docu-website/docs/category/gaming"
     }
   }
 }
