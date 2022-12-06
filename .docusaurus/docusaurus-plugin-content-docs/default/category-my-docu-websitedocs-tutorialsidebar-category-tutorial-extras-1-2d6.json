@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras-1",
+  "permalink": "/my-docu-website/docs/category/tutorial---extras-1",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/my-docu-website/docs/tutorial-extras/translate-your-site"
+    },
+    "next": {
+      "title": "User manuals",
+      "permalink": "/my-docu-website/docs/category/user-manuals"
+    }
+  }
+}

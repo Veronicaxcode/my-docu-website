@@ -1,0 +1,15 @@
+{
+  "title": "How to start using Meshnet",
+  "slug": "/category/how-to-start-using-meshnet",
+  "permalink": "/my-docu-website/docs/category/how-to-start-using-meshnet",
+  "navigation": {
+    "previous": {
+      "title": "User manuals",
+      "permalink": "/my-docu-website/docs/category/user-manuals"
+    },
+    "next": {
+      "title": "Using Meshnet on Windows",
+      "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
+    }
+  }
+}

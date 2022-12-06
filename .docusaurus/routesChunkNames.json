@@ -186,16 +186,24 @@
     },
     "content": "content---my-docu-website-markdown-page-393-42b"
   },
-  "/my-docu-website/docs-2e4": {
+  "/my-docu-website/docs-8e9": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---my-docu-website-docsa-7-e-002"
     },
     "versionMetadata": "versionMetadata---my-docu-website-docs-935-070"
   },
-  "/my-docu-website/docs/category/how-to-guides-ebc": {
+  "/my-docu-website/docs/category/how-to-start-using-meshnet-459": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-how-to-guidesd-87-04e"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-how-to-start-using-meshnetb-8-f-c95"
+  },
+  "/my-docu-website/docs/category/tutorial---basics-4a8": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-tutorial-basics-9-c-6-b96"
+  },
+  "/my-docu-website/docs/category/tutorial---extras-976": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---my-docu-website-docs-category-tutorial-extras-672-046"
   },
   "/my-docu-website/docs/category/user-manuals-510": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",

@@ -17,7 +17,7 @@
       },
       {
         "type": "category",
-        "label": "USER MANUALS",
+        "label": "Tutorial - Basics",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -58,11 +58,35 @@
             "docId": "tutorial-basics/congratulations"
           }
         ],
+        "href": "/my-docu-website/docs/category/tutorial---basics"
+      },
+      {
+        "type": "category",
+        "label": "User manuals",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "How to start using Meshnet",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Using Meshnet on Windows",
+                "href": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
+                "docId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
+              }
+            ],
+            "href": "/my-docu-website/docs/category/how-to-start-using-meshnet"
+          }
+        ],
         "href": "/my-docu-website/docs/category/user-manuals"
       },
       {
         "type": "category",
-        "label": "HOW-TO GUIDES",
+        "label": "Tutorial - Extras",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -79,29 +103,7 @@
             "docId": "tutorial-extras/translate-your-site"
           }
         ],
-        "href": "/my-docu-website/docs/category/how-to-guides"
-      },
-      {
-        "type": "category",
-        "label": "user-manuals",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "category",
-            "label": "how-to-start-using-meshnet",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "using-meshnet-on-windows",
-                "href": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
-                "docId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
-              }
-            ]
-          }
-        ]
+        "href": "/my-docu-website/docs/category/tutorial---extras"
       }
     ]
   },
@@ -162,8 +164,8 @@
     },
     "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows": {
       "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
-      "title": "using-meshnet-on-windows",
-      "description": "",
+      "title": "Using Meshnet on Windows",
+      "description": "Supported Windows versions",
       "sidebar": "tutorialSidebar"
     }
   }

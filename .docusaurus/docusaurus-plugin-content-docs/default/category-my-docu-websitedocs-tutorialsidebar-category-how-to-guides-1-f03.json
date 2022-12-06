@@ -1,0 +1,15 @@
+{
+  "title": "HOW-TO GUIDES",
+  "slug": "/category/how-to-guides-1",
+  "permalink": "/my-docu-website/docs/category/how-to-guides-1",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/my-docu-website/docs/tutorial-extras/translate-your-site"
+    },
+    "next": {
+      "title": "User manuals",
+      "permalink": "/my-docu-website/docs/category/user-manuals"
+    }
+  }
+}

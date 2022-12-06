@@ -99,11 +99,23 @@ export default [
   },
   {
     path: '/my-docu-website/docs',
-    component: ComponentCreator('/my-docu-website/docs', '2e4'),
+    component: ComponentCreator('/my-docu-website/docs', '8e9'),
     routes: [
       {
-        path: '/my-docu-website/docs/category/how-to-guides',
-        component: ComponentCreator('/my-docu-website/docs/category/how-to-guides', 'ebc'),
+        path: '/my-docu-website/docs/category/how-to-start-using-meshnet',
+        component: ComponentCreator('/my-docu-website/docs/category/how-to-start-using-meshnet', '459'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/my-docu-website/docs/category/tutorial---basics',
+        component: ComponentCreator('/my-docu-website/docs/category/tutorial---basics', '4a8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/my-docu-website/docs/category/tutorial---extras',
+        component: ComponentCreator('/my-docu-website/docs/category/tutorial---extras', '976'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

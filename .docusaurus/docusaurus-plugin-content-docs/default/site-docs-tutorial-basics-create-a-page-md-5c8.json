@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "USER MANUALS",
-    "permalink": "/my-docu-website/docs/category/user-manuals"
+    "title": "Tutorial - Basics",
+    "permalink": "/my-docu-website/docs/category/tutorial---basics"
   },
   "next": {
     "title": "Create a Document",

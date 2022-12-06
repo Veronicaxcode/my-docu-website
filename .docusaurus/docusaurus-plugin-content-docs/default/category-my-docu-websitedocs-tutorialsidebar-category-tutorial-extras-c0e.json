@@ -4,8 +4,8 @@
   "permalink": "/my-docu-website/docs/category/tutorial---extras",
   "navigation": {
     "previous": {
-      "title": "Congratulations!",
-      "permalink": "/my-docu-website/docs/tutorial-basics/congratulations"
+      "title": "Using Meshnet on Windows",
+      "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
     },
     "next": {
       "title": "Manage Docs Versions",

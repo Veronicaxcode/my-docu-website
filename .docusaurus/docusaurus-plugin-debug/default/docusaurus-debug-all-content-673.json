@@ -38,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "USER MANUALS",
-                "permalink": "/my-docu-website/docs/category/user-manuals"
+                "title": "Tutorial - Basics",
+                "permalink": "/my-docu-website/docs/category/tutorial---basics"
               }
             },
             {
@@ -65,8 +65,8 @@
                 "permalink": "/my-docu-website/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
-                "title": "HOW-TO GUIDES",
-                "permalink": "/my-docu-website/docs/category/how-to-guides"
+                "title": "User manuals",
+                "permalink": "/my-docu-website/docs/category/user-manuals"
               }
             },
             {
@@ -142,8 +142,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "USER MANUALS",
-                "permalink": "/my-docu-website/docs/category/user-manuals"
+                "title": "Tutorial - Basics",
+                "permalink": "/my-docu-website/docs/category/tutorial---basics"
               },
               "next": {
                 "title": "Create a Document",
@@ -223,8 +223,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "HOW-TO GUIDES",
-                "permalink": "/my-docu-website/docs/category/how-to-guides"
+                "title": "Tutorial - Extras",
+                "permalink": "/my-docu-website/docs/category/tutorial---extras"
               },
               "next": {
                 "title": "Translate your site",
@@ -252,17 +252,13 @@
               "previous": {
                 "title": "Manage Docs Versions",
                 "permalink": "/my-docu-website/docs/tutorial-extras/manage-docs-versions"
-              },
-              "next": {
-                "title": "using-meshnet-on-windows",
-                "permalink": "/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
               }
             },
             {
               "unversionedId": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
               "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
-              "title": "using-meshnet-on-windows",
-              "description": "",
+              "title": "Using Meshnet on Windows",
+              "description": "Supported Windows versions",
               "source": "@site/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows.md",
               "sourceDirName": "user-manuals/how-to-start-using-meshnet",
               "slug": "/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows",
@@ -271,11 +267,18 @@
               "editUrl": "https://github.com/Veronicaxcode/my-docu-website/docs/user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Translate your site",
-                "permalink": "/my-docu-website/docs/tutorial-extras/translate-your-site"
+                "title": "How to start using Meshnet",
+                "permalink": "/my-docu-website/docs/category/how-to-start-using-meshnet"
+              },
+              "next": {
+                "title": "Tutorial - Extras",
+                "permalink": "/my-docu-website/docs/category/tutorial---extras"
               }
             }
           ],
@@ -288,7 +291,7 @@
               },
               {
                 "type": "category",
-                "label": "USER MANUALS",
+                "label": "Tutorial - Basics",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -320,13 +323,43 @@
                 "link": {
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/tutorial---basics",
+                  "permalink": "/my-docu-website/docs/category/tutorial---basics"
+                }
+              },
+              {
+                "type": "category",
+                "label": "User manuals",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "How to start using Meshnet",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/how-to-start-using-meshnet",
+                      "permalink": "/my-docu-website/docs/category/how-to-start-using-meshnet"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
                   "slug": "/category/user-manuals",
                   "permalink": "/my-docu-website/docs/category/user-manuals"
                 }
               },
               {
                 "type": "category",
-                "label": "HOW-TO GUIDES",
+                "label": "Tutorial - Extras",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -341,29 +374,9 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/how-to-guides",
-                  "permalink": "/my-docu-website/docs/category/how-to-guides"
+                  "slug": "/category/tutorial---extras",
+                  "permalink": "/my-docu-website/docs/category/tutorial---extras"
                 }
-              },
-              {
-                "type": "category",
-                "label": "user-manuals",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "category",
-                    "label": "how-to-start-using-meshnet",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "user-manuals/how-to-start-using-meshnet/using-meshnet-on-windows"
-                      }
-                    ]
-                  }
-                ]
               }
             ]
           }

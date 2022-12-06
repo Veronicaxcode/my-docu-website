@@ -1,16 +1,15 @@
 {
-  "title": "USER MANUALS",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "title": "User manuals",
   "slug": "/category/user-manuals",
   "permalink": "/my-docu-website/docs/category/user-manuals",
   "navigation": {
     "previous": {
-      "title": "What is Meshnet?",
-      "permalink": "/my-docu-website/docs/intro"
+      "title": "Congratulations!",
+      "permalink": "/my-docu-website/docs/tutorial-basics/congratulations"
     },
     "next": {
-      "title": "Create a Page",
-      "permalink": "/my-docu-website/docs/tutorial-basics/create-a-page"
+      "title": "How to start using Meshnet",
+      "permalink": "/my-docu-website/docs/category/how-to-start-using-meshnet"
     }
   }
 }
