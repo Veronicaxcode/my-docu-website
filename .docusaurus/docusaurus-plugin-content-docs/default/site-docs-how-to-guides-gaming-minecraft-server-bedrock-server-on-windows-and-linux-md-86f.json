@@ -1,0 +1,24 @@
+{
+  "unversionedId": "how-to-guides/gaming/minecraft-server/bedrock-server-on-windows-and-linux",
+  "id": "how-to-guides/gaming/minecraft-server/bedrock-server-on-windows-and-linux",
+  "title": "Create a Minecraft Bedrock server on Windows and Linux",
+  "description": "",
+  "source": "@site/docs/how-to-guides/gaming/minecraft-server/bedrock-server-on-windows-and-linux.md",
+  "sourceDirName": "how-to-guides/gaming/minecraft-server",
+  "slug": "/how-to-guides/gaming/minecraft-server/bedrock-server-on-windows-and-linux",
+  "permalink": "/my-docu-website/docs/how-to-guides/gaming/minecraft-server/bedrock-server-on-windows-and-linux",
+  "draft": false,
+  "editUrl": "https://github.com/Veronicaxcode/my-docu-website/docs/how-to-guides/gaming/minecraft-server/bedrock-server-on-windows-and-linux.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to create a Minecraft server with Meshnet",
+    "permalink": "/my-docu-website/docs/category/how-to-create-a-minecraft-server-with-meshnet"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/my-docu-website/docs/category/tutorial---basics"
+  }
+}

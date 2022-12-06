@@ -1,0 +1,16 @@
+{
+  "title": "How to create a Minecraft server with Meshnet",
+  "description": "Minecraft is one of the most popular multiplayer online games. To [enjoy the full gaming experience of Minecraft](https://nordvpn.com/gaming/minecraft/), you can create your own server and invite friends to join your world. However, running a public Minecraft server might present a security threat and open your home network to attacks. With Meshnet, you can set up your private Minecraft server and connect to it from anywhere in the world safely. Instead of having to open ports and expose your IP address to strangers online, you and your friends can connect your devices to Meshnet, which, in essence, acts as a local area network but with an encrypted VPN tunnel. Also, this approach implies that you will not pay for third-party hosting solutions.",
+  "slug": "/category/how-to-create-a-minecraft-server-with-meshnet",
+  "permalink": "/my-docu-website/docs/category/how-to-create-a-minecraft-server-with-meshnet",
+  "navigation": {
+    "previous": {
+      "title": "How to make a Minecraft server with Meshnet",
+      "permalink": "/my-docu-website/docs/how-to-guides/gaming/how-to-make-a-private-minecraft-server-with-meshnet"
+    },
+    "next": {
+      "title": "Create a Minecraft Bedrock server on Windows and Linux",
+      "permalink": "/my-docu-website/docs/how-to-guides/gaming/minecraft-server/bedrock-server-on-windows-and-linux"
+    }
+  }
+}
