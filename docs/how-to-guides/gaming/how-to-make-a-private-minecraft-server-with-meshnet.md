@@ -20,7 +20,7 @@ This guide walks you through the process of creating a Minecraft server with Mes
 
 | Minecraft Bedrock Edition     | Minecraft Java Edition  |
 | ----------------------------- | ----------------------- |
-| [Windows](#on-windows)                       | macOS                   |
+| [Windows](#on-windows)        | macOS                   |
 | Linux                         |                         |
 
 ## Create a Minecraft Bedrock server on Windows and Linux
